@@ -42,7 +42,7 @@ def __admin__():
                         time.sleep(2)
                         print(Fore.RED + "WebSite : " + Fore.BLUE + "https://github.com/")
                         time.sleep(1)
-                        print(Fore.RED + "\nUserName : " + Fore.BLUE  "mohammad373")
+                        print(Fore.RED + "\nUserName : " + Fore.BLUE + "mohammad373")
                         time.sleep(1)
                         print(Fore.RED + "PassWord : " + Fore.BLUE + "0990m0990")
                         time.sleep(2)
