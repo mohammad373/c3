@@ -50,6 +50,8 @@ def __admin__():
                         sys.exit()
                     except:
                         pass
+            except:
+                pass
     except:
         pass
 __admin__()
